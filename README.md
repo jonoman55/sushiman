@@ -1,6 +1,6 @@
 # Sushiman Landing Page
 
-This is a simple web page created with HTML, CSS and aos-animations. 
+This is a simple web page created with HTML, CSS and [aos-animations](https://github.com/michalsnik/aos). 
 
 ## Installation
 
